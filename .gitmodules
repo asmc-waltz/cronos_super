@@ -7,3 +7,6 @@
 [submodule "meta-rockchip"]
 	path = meta-rockchip
 	url = https://git.yoctoproject.org/meta-rockchip
+[submodule "meta-cronos"]
+	path = meta-cronos
+	url = git@github.com:asmc-waltz/meta-cronos.git
