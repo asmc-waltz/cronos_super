@@ -10,3 +10,6 @@
 [submodule "meta-cronos"]
 	path = meta-cronos
 	url = git@github.com:asmc-waltz/meta-cronos.git
+[submodule "meta-arm"]
+	path = meta-arm
+	url = https://git.yoctoproject.org/meta-arm
