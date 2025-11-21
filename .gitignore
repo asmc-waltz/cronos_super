@@ -1,0 +1,47 @@
+# =========================
+# Yocto / OpenEmbedded
+# =========================
+
+# Build output directories
+build/
+tmp/
+sstate-cache/
+downloads/
+
+# Logs
+*.log
+*.log.*
+*.err
+
+# Ccache
+ccache/
+
+# Bitbake signature files
+*.sig
+*.stamp
+*.done
+
+# Image symlinks and generated files
+tmp/deploy/
+tmp/work/
+tmp/stamps/
+
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Editor / OS files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Optional: exclude temporary shell scripts or patches
+*.orig
+*.rej
+
+# Ignore kernel build directories if ever generated in repo
+*/.tmp/
+*/.config
