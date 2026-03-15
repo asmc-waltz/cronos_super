@@ -13,3 +13,6 @@
 [submodule "meta-arm"]
 	path = meta-arm
 	url = https://git.yoctoproject.org/meta-arm
+[submodule "meta-linux-mainline"]
+	path = meta-linux-mainline
+	url = https://github.com/betafive/meta-linux-mainline.git
