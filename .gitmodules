@@ -1,6 +1,3 @@
-[submodule "poky"]
-	path = poky
-	url = https://git.yoctoproject.org/git/poky
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = https://git.openembedded.org/meta-openembedded
